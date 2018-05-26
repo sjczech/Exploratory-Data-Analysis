@@ -43,7 +43,7 @@ http://google.com
 @sridevip9 Hello!
 
 
-| # Heading1 | # Heading2 |
+|  Heading1  |  Heading2 |
 ------------ | ------------
 |  cell 1    |  cell 2    |
 
